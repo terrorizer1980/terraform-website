@@ -13,6 +13,10 @@ page_id: "api-changelog"
 
 Keep track of changes to the API for Terraform Cloud and Terraform Enterprise.
 
+### 2021-07-??
+
+* [Workspaces](./workspaces.html): Added `locked_by` as an includable related resource.
+
 ### 2021-06-8
 
 * Updated [Registry Module APIs](./modules.html).
